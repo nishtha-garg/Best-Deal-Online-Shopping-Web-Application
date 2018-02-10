@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    	<laptop id="LAP1" >  
+		<retailer>DELL (INSPIRON 13500)</retailer>
+             <price>850</price>
+        </laptop>
+		
+		<laptop id="LAP2" >
+		<retailer>HP (SPECTRA)</retailer>
+             <price>900</price>
+    </laptop>
+	
+	<laptop id="LAP3" >
+		<retailer>APPLE(MACBOOK PRO)</retailer>
+             <price>950</price>
+    </laptop> 
+	
+	<laptop id="LAP4" >
+		<retailer>LENOVO</retailer>
+             <price>550</price>
+    </laptop>
+
+	<laptop id="LAP5" >
+		<retailer>TOSHIBA LAPTOP(13' 400 SERIES)</retailer>
+             <price>650</price>
+    </laptop>
+	
+	<laptop id="LAP6" >
+		<retailer>ACER</retailer>
+             <price>800</price>
+    </laptop>
+	
+	
+	
+
+	<tablet id="TAB1" >
+   		<retailer>SAMSUNG TAB</retailer>
+             <price>650</price>
+    </tablet>
+	
+	 <tablet id="TAB2" >
+	<retailer>MICROSOFT SURFACE TAB</retailer>
+    <price>750</price>
+    </tablet>
+	
+	
+	<tablet id="TAB3" >
+		<retailer>BLACKBERRY TAB</retailer>
+             <price>500</price>
+    </tablet> 
+	
+	<tablet id="TAB4" >
+		<retailer>APPLE I-PAD</retailer>
+             <price>800</price>
+    </tablet> 
+	
+	<tablet id="TAB5" >
+		<retailer>GOOGLE NEXUS TAB</retailer>
+             <price>700</price>
+    </tablet> 
+	
+	
+	
+		</ProductCatalog>
